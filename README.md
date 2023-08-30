@@ -29,5 +29,4 @@ now you can use both the functions here
 ## Authors
 
 Anjali Sikarwar
-[@Vikas_Phulriya](https://www.linkedin.com/in/vikas-p-657784131/)
 
